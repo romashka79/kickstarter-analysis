@@ -14,4 +14,5 @@ Analysis and visual feedback of the Kickstarter campaign outcomes based on the l
 
 A pivot table and a line graph were created based on the number of theater campaigns and their respective launch dates obtained from the Parent Category and Years columns. Based on the data displayed in the pivot chart and reflected in the line graph, we can conclude that Louis would have a higher chance of a successful campaign and reaching her fundraising goal, if the campaign is launched during the months of May and June. 
 
-![Theater_Outcomes_vs_Launch](path/to/Theater_Outcomes_vs_Launch.png).
+![Theater_Outcomes_vs_Launch.png](path/to/Theater_Outcomes_vs_Launch.png).
+
